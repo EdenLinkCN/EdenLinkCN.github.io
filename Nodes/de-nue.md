@@ -4,7 +4,7 @@
 
 | Item          | Value                                        |
 | ------------- | -------------------------------------------- |
-| EndPoint      | ap-hkg.dn42.edenlink.cyou                    |
+| EndPoint      | de-nue.dn42.edenlink.cyou                    |
 | Port          | <Last 5 gidits of your ASN>                  |
 | Link-Local    | fe80::5403                                   |
 | DN42 IPv4     | 172.23.131.230                               |
