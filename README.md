@@ -47,7 +47,10 @@ Welcome Peering with Policies below:
 - BGP Extended Next Hop / ROA / Multiprotocol
 
 - Latency < 100ms / PoP in the same area
- 
+
+- (Optional) use udp2raw or udpspeeder in order to improve WireGuard Perfmance and avoid banning in China Mainland.
+
+
 You can get PoP Information by clicking location above.
 
 ## Concact
