@@ -1,60 +1,27 @@
 # EdenLink Community Networking
 
-[AS4242423025](https://explorer.burble.com/?#/aut-num/AS4242423025) @ DN42, 
+## EdenLink 终止运营通知
 
-This is EdenLink Community Networking operated by [Eden7Ba23](https://edenjohnson.cyou) .
+各位好，这里 EdenJohnson ， EdenLink 的主要运营者。 
 
-Support both IPv4 and IPv6.
+经过一段时间的考虑，本人遗憾的宣布，
 
-First and Foremost :
+由于个人原因，EdenLink 将会在接下来三天内停止运转，并将删除位于 dn42 的 asn 注册。
 
-If you have already peered , i suggest you to join this channel to get information :[@EdenLink_at42](https://t.me/EdenLink_at42)
+尽管经营不到半年时间，本人依然学习到了基本的 BGP 知识：
+ 
+ > 已经可以参考 cznic 的文档配置基本正确的 bird 配置
+ > 
+ > 对于一些组网方案也有了少量的认识。
 
-## Route Propagation Graph
+本次停止将会是永久性，不可逆的。
 
-![](https://bgp-api.strexp.net/as_graph/AS4242423025)
+本内容发出时，节点的关闭工作已经开始，并将在不久内完成。届时从任何网络都将无法访问 EdenLink 。
 
-## Prefix:
+dn42-go 项目仓库依然保留，各位可继续参考。
 
-IPv4:```172.23.131.224/27```
+不知下次重逢是何时何地，但我们始终灿烂如星海。
 
-IPv6:```fddd:5002:6646::/48```
+晚安。
 
-## PoP Location
-
-### North America:
-
-[US-LAX, Los Angeles, California, United States](https://edenlink.cyou/Nodes/us-lax.html)
-
-### Asia-Pacific:
-
-[AP-HND, Tokyo, Japan](https://edenlink.cyou/Nodes/ap-hnd.html)
-
-[AP-HKG, HongKong, P.R.C](https://edenlink.cyou/Nodes/ap-hkg.html)
-
-[CN-PEK, Peking, P.R.C](https://edenlink.cyou/Nodes/cn-pek.html)
-
-### Europe
-
-[RU-KZN, Moscow, Moskva, Russia](https://edenlink.cyou/Nodes/ru-kzn.html) **(a typo caused wrong domain)**
-
-[DE-NUE, Nuremberg, Bavaria, Germany](https://edenlink.cyou/Nodes/de-nue.html)
-
-## Peering
-
-Welcome Peering with Policies below:
-
-- BGP Extended Next Hop / ROA / Multiprotocol
-
-- Latency < 100ms / PoP in the same area
-
-- (Optional) use udp2raw or udpspeeder in order to improve WireGuard Perfmance and avoid banning in China Mainland.
-
-
-You can get PoP Information by clicking location above.
-
-## Concact
-
-- Telegram : https://t.me/eden_7ba23
-
-- eMail : me@edenjohnson.cyou / me@edenlink.cyou (Notice: I dont config Mail on Every device i have. i suggests concact me with telegram)
+Eden Johnson, AS4242423025
